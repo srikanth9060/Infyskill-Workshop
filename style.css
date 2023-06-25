@@ -24,7 +24,7 @@
     font-weight: bolder;
     cursor: pointer;
     text-decoration: none;
-    color: white;
+    color: blue;
 }
 
 .navbar ul li{
@@ -36,7 +36,7 @@
 
 .navbar ul li a{
     text-decoration: none;
-    color: white;
+    color: red;
 }
 
 .navbar ul li::after{
@@ -57,7 +57,7 @@
 
 .content{
     width: 100%;
-    color: white;
+    color: blue;
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
