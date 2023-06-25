@@ -43,7 +43,7 @@
     content: '';
     height: 3px;
     width: 0;
-    background:#FF0000;
+    background:#FFOOOO;
     position: absolute;
     left: 0;
     bottom: -10px;
@@ -81,7 +81,7 @@ button{
     text-align: center;
     margin: 20px 10px;
     border-radius: 25px;
-    border: 2px solid #FF00FF;
+    border: 2px solid #FFOOFF;
 
     background: transparent;
     color: wheat;
@@ -94,7 +94,7 @@ span{
     position: absolute;
     left: 0;
     top: 0;
-    background-color:#00FFFF;
+    background-color:#OOFFFF;
     border-radius: 25px;
     z-index: -1;
     transition: 0.5s;
